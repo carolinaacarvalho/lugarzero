@@ -1,0 +1,130 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179.1 169.69">
+
+		<g id="logo">
+			<g id="base">
+				<polyline
+				id="ladoB"
+				points="64.15 103.06 78.81 88.41 78.81 22.35 64.11 22.16"
+				/>
+				<polygon
+				id="janelaB"
+				class="cls-1"
+				points="27.91 35.37 27.91 103.03 27.91 103.03 42.46 88.41 42.46 26.71 37.98 26.71 27.91 35.37"
+				/>
+				<polyline
+				id="cimaB"
+				points="42.37 22.16 27.91 35.37 78.81 35.37 78.81 22.16"
+				/>
+				<polyline
+				id="frenteB"
+				points="42.46 88.41 27.91 103.03 64.15 103.06 64.15 88.41"
+				/>
+			</g>
+			<g id="fimtarde">
+				<polyline
+				id="ladoFT"
+				class="cls-2"
+				points="63.96 103.88 78.61 89.22 78.61 23.16 63.92 22.97"
+				/>
+				<polygon
+				id="janelaFT"
+				class="cls-3"
+				points="27.72 36.19 27.72 74.83 27.72 74.83 42.27 89.22 42.27 27.53 37.79 27.53 27.72 36.19"
+				/>
+				<polyline
+				id="cimaFT"
+				class="cls-4"
+				points="42.17 22.97 27.72 36.19 78.61 36.19 78.61 22.97"
+				/>
+				<polyline
+				id="frenteFT"
+				class="cls-1"
+				points="42.27 89.22 56.77 103.87 63.96 103.88 63.96 89.22"
+				/>
+				<g id="solFT">
+				<line class="cls-5" x1="42.3" y1="89.22" x2="93.65" y2="37.88" />
+				<circle class="cls-6" cx="93.6" cy="37.92" r="6.98" />
+				</g>
+			</g>
+			<g id="tarde">
+				<polyline
+				id="ladoT"
+				class="cls-3"
+				points="57.06 103.06 78.81 88.41 78.81 22.35 64.11 22.16"
+				/>
+				<polygon
+				id="janelaT"
+				class="cls-1"
+				points="27.91 35.37 27.91 103.03 27.91 103.03 42.46 88.41 42.46 26.71 37.98 26.71 27.91 35.37"
+				/>
+				<polyline
+				id="cimaT"
+				class="cls-2"
+				points="42.37 22.16 27.91 35.37 78.81 35.37 78.81 22.16"
+				/>
+				<polyline
+				id="frenteT"
+				class="cls-4"
+				points="42.46 88.41 27.91 103.03 49.76 103.06 57.06 103.06"
+				/>
+				<g id="solT">
+				<line class="cls-5" x1="57.06" y1="103.06" x2="57.06" y2="6.98" />
+				<circle class="cls-6" cx="57.06" cy="6.98" r="6.98" />
+				</g>
+			</g>
+			<g id="manha">
+				<polyline
+				id="ladoM"
+				class="cls-4"
+				points="64.15 80.22 78.81 65.56 78.81 23.04 64.11 22.85"
+				/>
+				<polygon
+				id="janelaM"
+				class="cls-1"
+				points="27.91 36.06 27.91 103.72 27.91 103.72 42.46 89.1 42.46 27.4 37.98 27.4 27.91 36.06"
+				/>
+				<polyline
+				id="cimaM"
+				class="cls-3"
+				points="42.37 22.85 27.91 36.06 78.81 36.06 78.81 22.85"
+				/>
+				<polyline
+				id="frenteM"
+				class="cls-2"
+				points="42.46 89.1 27.91 103.72 40.6 103.75 64.15 80.22"
+				/>
+				<g id="solM">
+				<line class="cls-5" x1="64.15" y1="80.21" x2="7.85" y2="93.01" />
+				<circle class="cls-6" cx="6.98" cy="93.21" r="6.98" />
+				</g>
+			</g>
+			<g id="noite">
+				<polyline
+				class="cls-4"
+				id="ladoN"
+				points="63.28 104.46 77.94 89.81 77.94 23.75 63.25 23.55"
+				/>
+				<polygon
+				id="janelaN"
+				class="cls-2"
+				points="27.05 36.77 27.05 60.31 27.05 60.31 41.59 74.71 41.59 28.11 37.12 28.11 27.05 36.77"
+				/>
+				<polyline
+				id="cimaN"
+				class="cls-3"
+				points="41.5 23.55 27.05 36.77 77.94 36.77 77.94 23.55"
+				/>
+				<polyline
+				class="cls-1"
+				id="frenteN"
+				points="41.59 74.71 63.28 104.46 63.28 104.46 63.28 89.81"
+				/>
+				<g id="solN">
+				<line class="cls-5" x1="41.6" y1="74.71" x2="92.84" y2="101.32" />
+				<circle class="cls-6" cx="94.05" cy="101.94" r="6.98" />
+				</g>
+			</g>
+
+		</g>
+</svg>

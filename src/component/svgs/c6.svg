@@ -1,0 +1,54 @@
+<svg class="img_svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 554.47 265.86">
+
+		<g id="c66">
+		
+			<rect id="chao" class="cls-3" y="184.29" width="554.47" height="81.57"/>
+			<g id="lado">
+				<polyline class="cls-4" points="362.74 233.19 380.51 216.07 380.51 123.1 362.55 105.07"/>
+			</g>
+			<g id="bord">
+				<polyline class="cls-5" points="362.74 233.19 362.62 140.14 328.66 105.2 293.04 140.14 292.91 233.19"/>
+			</g>
+			<g id="cima">
+				<polygon class="cls-6" points="328.66 105.2 362.62 140.14 380.51 123.1 345.68 88.02 328.66 105.2"/>
+			</g>
+			<g id="parede">
+				<polyline class="cls-7" points="358.42 227.98 358.31 146.45 328.56 115.83 297.34 146.45 297.23 227.98"/>
+			</g>
+			<polygon id="dentro" class="cls-8" points="297.34 146.45 297.23 227.98 319.28 205.93 319.28 124.93 297.34 146.45"/>
+			<g id="chao-2" data-name="chao">
+				<polygon class="cls-9" points="297.23 227.98 319.28 205.93 358.42 205.93 358.42 227.98 297.23 227.98"/>
+				<polygon class="cls-9" points="297.23 178.39 319.28 156.34 358.42 156.34 358.42 178.39 297.23 178.39"/>
+			</g>
+			<g id="janeladentro">
+				<g class="cls-10">
+					<polygon class="cls-11" points="301.97 151.53 316.55 137.28 316.55 150.47 301.97 165.78 301.97 151.53"/>
+				
+				</g>
+			</g>
+			<g id="janeladentro-2" data-name="janeladentro">
+				<g class="cls-13">
+					<polygon class="cls-11" points="301.97 198.53 316.55 184.29 316.55 197.47 301.97 212.78 301.97 198.53"/>
+				
+				</g>
+			</g>
+			<rect id="ventoinha" class="cls-5" x="329.69" y="128.52" width="6.25" height="6.25"/>
+				<g id="borda">
+		<polyline class="st5" points="364.2,155.3 364.2,138.7 364.2,138.7 328.5,101.6 290.6,139.6 290.6,151.5 		"/>
+		<line class="st5" x1="290.6" y1="165.3" x2="290.6" y2="199.7"/>
+		<polyline class="st5" points="291.4,212.8 291.4,233.2 318.8,233.2 		"/>
+		<polyline class="st5" points="317.8,233.2 364.8,233.2 364.1,153.4 		"/>
+	</g>
+	<g id="borda2">
+		<line class="st1" x1="291.4" y1="151.1" x2="291.4" y2="165.5"/>
+		<line class="st1" x1="291.4" y1="199.5" x2="291.4" y2="213.9"/>
+	</g>
+	<polygon id="borda3" class="st1" points="328.7,110.3 295.5,142.8 295.5,229.8 360.3,229.8 360.3,143.7 	"/>
+			<polyline id="inside1"  class="cls-17" points="340.76 134.74 337.31 132.3 339.89 128.64 337.87 132.22 371.87 132.22 371.87 87.26"/>
+			<polyline  id="outside1" class="cls-18" points="281.19 100.26 283.62 96.8 287.29 99.39 283.7 97.36 283.7 131.37 328.66 131.37"/>
+			<polyline  id="inside2" class="cls-19" points="321 201.52 324.73 202.14 325.45 198.17 324.43 201.74 304.54 170.73 329.69 138.17"/>
+			<polyline  id="outside2" class="cls-18" points="338.7 138.79 334.97 138.17 334.25 142.14 335.27 138.58 357.23 171.91 348.11 201.81"/>
+		</g>
+</svg>

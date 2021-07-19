@@ -1,0 +1,48 @@
+<svg class="img_svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 554.47 265.86">
+
+		<g id="c63">
+		
+			<rect id="chao" class="cls-3" y="184.29" width="554.47" height="81.57"/>
+			<g id="lado">
+				<polyline class="cls-4" points="362.74 233.19 380.51 216.07 380.51 123.1 362.55 105.07"/>
+			</g>
+			<g id="borda">
+				<polyline class="cls-5" points="362.74 233.19 362.62 140.14 328.66 105.2 293.04 140.14 292.91 233.19"/>
+			</g>
+			<g id="cima">
+				<polygon class="cls-6" points="328.66 105.2 362.62 140.14 380.51 123.1 345.68 88.02 328.66 105.2"/>
+			</g>
+			<g id="parede">
+				<polyline class="cls-7" points="358.42 227.98 358.31 146.45 328.56 115.83 297.34 146.45 297.23 227.98"/>
+			</g>
+			<polygon id="dentro" class="cls-8" points="297.34 146.45 297.23 227.98 319.28 205.93 319.28 124.93 297.34 146.45"/>
+			<g id="chao-2" data-name="chao">
+				<polygon class="cls-9" points="297.23 227.98 319.28 205.93 358.42 205.93 358.42 227.98 297.23 227.98"/>
+				<polygon class="cls-9" points="297.23 178.39 319.28 156.34 358.42 156.34 358.42 178.39 297.23 178.39"/>
+			</g>
+			<g id="janeladentro">
+				<g class="cls-10">
+					<polygon class="cls-11" points="301.97 151.53 316.55 137.28 316.55 150.47 301.97 165.78 301.97 151.53"/>
+									
+				</g>
+			</g>
+			<g id="janeladentro-2" data-name="janeladentro">
+				<g class="cls-13">
+					<polygon class="cls-11" points="301.97 198.53 316.55 184.29 316.55 197.47 301.97 212.78 301.97 198.53"/>
+										
+				</g>
+			</g>
+			<g id="bordas">
+				<line class="cls-14" x1="288.69" y1="142.2" x2="288.69" y2="150.56"/>
+				<polyline class="cls-14" points="364.48 132.85 329.89 98.35 290.31 137.84"/>
+				<line class="cls-14" x1="366.69" y1="150.56" x2="366.69" y2="139.7"/>
+				<line class="cls-14" x1="288.69" y1="164.96" x2="288.69" y2="199.33"/>
+				<line class="cls-14" x1="288.69" y1="213.73" x2="288.69" y2="233.19"/>
+				<line class="cls-14" x1="366.69" y1="182.99" x2="366.69" y2="199.33"/>
+				<line class="cls-14" x1="366.69" y1="164.96" x2="366.69" y2="174.82"/>
+				<line class="cls-14" x1="366.69" y1="233.19" x2="366.69" y2="213.73"/>
+			</g>
+		</g>
+</svg>

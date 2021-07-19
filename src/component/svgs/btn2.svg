@@ -1,0 +1,29 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 449.15 87.83">
+	<defs>
+		<style>.cls-1{font-size:72px;font-family:SpaceMono-Bold, Space Mono;font-weight:700;letter-spacing:-0.04em;}.cls-1,.cls-5{fill:#4E4E4D;}.cls-2{fill:none;}.cls-3{fill:#777777;}.cls-4{fill:#9D9D9C;}</style>
+	</defs>
+	<title>BAtivo 100M</title>
+	<g id="Camada_2" data-name="Camada 2">
+		<g id="Camada_1-2" data-name="Camada 1">
+			<text class="cls-1" transform="translate(117.58 63.49)">M
+				<tspan class="cls-2" x="41.54" y="0">I</tspan>
+				<tspan x="83.09" y="0">T</tspan>
+				<tspan class="cls-2" x="124.63" y="0">O</tspan>
+				<tspan x="166.18" y="0">S</tspan>
+			</text>
+			<polygon class="cls-3" points="252.66 57.08 259 50.75 277.69 50.75 271.88 57.08 252.66 57.08"/>
+			<polygon class="cls-4" points="259.4 11.55 259.4 50.57 252.66 57.08 252.69 17.89 259.4 11.55"/>
+			<polygon class="cls-4" points="283.63 11.88 283.75 57.25 277.88 63.77 277.88 18.21 283.63 11.88"/>
+			<polygon class="cls-3" points="168.59 57.88 175.42 51.05 194.86 51.05 188.56 57.88 168.59 57.88"/>
+			<polygon class="cls-4" points="188.32 24.91 188.32 51.05 181.72 57.85 181.41 25.05 188.32 24.91"/>
+			<path class="cls-5" d="M245.46,57.09l.23-38.89h32.16l0,45.52h-6.34v0H245.46V57.09m7.2-32.21v32.2h19.22V24.89Z"/>
+			<polygon class="cls-3" points="245.7 18.2 252.03 11.87 283.69 11.87 277.89 18.2 245.7 18.2"/>
+			<polygon class="cls-5" points="168.57 63.81 168.56 63.81 168.56 64.53 188.56 64.53 188.56 57.86 181.72 57.85 181.52 24.94 188.32 24.91 188.32 18.29 168.6 18.29 168.59 25.09 175.1 25.09 175.08 57.88 168.57 57.87 168.57 63.81"/>
+			<polygon class="cls-4" points="194.86 51.05 188.56 57.86 188.56 64.53 194.86 57.85 194.86 51.05"/>
+			<polygon class="cls-3" points="168.59 18.38 175.42 11.55 194.62 11.55 188.32 18.38 168.59 18.38"/>
+			<polygon class="cls-4" points="194.62 11.56 188.32 18.37 188.32 24.91 194.62 18.23 194.62 11.56"/>
+			<rect class="cls-2" width="449.15" height="75.65"/>
+		</g>
+	</g>
+</svg>
